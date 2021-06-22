@@ -14,6 +14,7 @@ For the sake of simplicity, let us ignore the effect of personal income tax in t
 - You are 30 years old and plan to retire at 50. This leaves you with 20 more years to earn
 - You don’t intend to work after you retire.
 - Your expenses are fixed and don’t foresee any other expense.
+- You decide to invest at 12% rate for next 19 year.
 
 Going by these assumptions, here is how the cash balance will look like in 20 years. (In execution Video itself)
 
