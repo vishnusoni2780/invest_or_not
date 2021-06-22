@@ -1,9 +1,9 @@
 import os
 import time
 os.system('cls')
-print("\n")
 print("-"*100)
 print("\t\t\t\t\t█══welcome══█")
+print("-"*100)
 
 sal= float(input("Enter the Salary: "))*12
 dsal=sal
@@ -19,7 +19,7 @@ os.system('cls')
 print("Let's see the difference when you save the Savings & when you invest the Savings:")
 time.sleep(4)
 
-print("\nWithout Investment Amount:")
+print("\n=> Without Investment Amount:")
 print("-"*100)
 print("\t Year\t\t\t Income\t\t\t Expenses\t\t Savings")
 print("-"*100)
@@ -40,7 +40,7 @@ print("-"*100)
 
 time.sleep(2)
 
-print("\nWith Investment Amount:")
+print("\n=> With Investment Amount:")
 print("-"*120)
 print("\t Year\t\t\t Income\t\t\t Expenses\t\t Savings\t\t Invested @ {}".format(rinv))
 print("-"*120)
