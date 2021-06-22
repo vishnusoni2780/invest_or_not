@@ -18,5 +18,5 @@ For the sake of simplicity, let us ignore the effect of personal income tax in t
 
 Going by these assumptions, here is how the cash balance will look like in 20 years. (In execution Video itself)
 
-LinkedIn Post:
-<>
+# LinkedIn Post:
+https://www.linkedin.com/posts/vishnu-soni-6baa1419b_varsity-python-zerodha-activity-6813038847039983617-2rnx
